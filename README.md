@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## If have a typo here, forgive me, my English is terrible.
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Druzinhu&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true)](https://github.com/Druzinhu)
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Druzinhu&layout=compact&theme=gotham&hide_border=true)](https://github.com/Druzinhu)
@@ -22,5 +23,3 @@ I have been working with **[JavaScript](https://pt.wikipedia.org/wiki/JavaScript
 
 # Yukie
 **[Yukie](https://github.com/Druzinhu/Yukie)** is my Discord bot! It has some commands for fun, moderation, music, among others. I did her using the **[Discord.js library](https://discord.js.org/)**
-
-_If have a typo here, forgive me, my English is terrible._
