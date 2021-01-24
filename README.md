@@ -21,5 +21,5 @@ Hello, my name is Druzinhu, I'm 14 years old and I'm brazilian!
 
 I have been working with **[JavaScript](https://pt.wikipedia.org/wiki/JavaScript)**, but I intend to learn **[Java](https://pt.wikipedia.org/wiki/Java)** too!
 
-## Yukie
-- **[Yukie](https://github.com/Druzinhu/Yukie)** is my Discord bot! It has some commands for fun, moderation, music, among others. I did her using the **[Discord.js library](https://discord.js.org/)**
+## [Yukie](https://github.com/Druzinhu/Yukie)
+- **Yukie** is my Discord bot! It has some commands for fun, moderation, music, among others. I did her using the **[Discord.js](https://discord.js.org/)** library
