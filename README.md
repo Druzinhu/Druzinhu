@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hello, my name is Druzinhu!
+## Hello!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Druzinhu&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true)](https://github.com/Druzinhu)
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Druzinhu&layout=compact&theme=gotham&hide_border=true)](https://github.com/Druzinhu)
 
-Hello, my name is Druzinhu, I'm 14 years old and I'm brazilian!
+My name is Druzinhu, I'm 14 years old and I'm brazilian!
 
 I have been working with **[JavaScript](https://pt.wikipedia.org/wiki/JavaScript)**, but I intend to learn **[Java](https://pt.wikipedia.org/wiki/Java)** too!
 
