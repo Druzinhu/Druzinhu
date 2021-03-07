@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## If have a typo here, forgive me, my English is terrible.
+## Hello, my name is Druzinhu!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Druzinhu&show_icons=true&include_all_commits=true&theme=gotham&hide_border=true)](https://github.com/Druzinhu)
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Druzinhu&layout=compact&theme=gotham&hide_border=true)](https://github.com/Druzinhu)
@@ -22,4 +22,4 @@ Hello, my name is Druzinhu, I'm 14 years old and I'm brazilian!
 I have been working with **[JavaScript](https://pt.wikipedia.org/wiki/JavaScript)**, but I intend to learn **[Java](https://pt.wikipedia.org/wiki/Java)** too!
 
 ## [Yukie](https://github.com/Druzinhu/Yukie)
-- **Yukie** is my Discord bot! She has some commands for fun, moderation, music, among others. I did she using the **[Discord.js](https://discord.js.org/)** library
+- **Yukie** is my Discord bot! She has some commands for fun, moderation, music, among others. I did she using the **[Discord.js](https://discord.js.org/)** library and **[Node.js](https://nodejs.org/en/)** (used to run the code).
