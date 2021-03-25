@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 My name is Druzinhu, I'm 14 years old and I'm brazilian!
 
-I program using the **[JavaScript](https://pt.wikipedia.org/wiki/JavaScript)** language. I tried to program using **[Java](https://pt.wikipedia.org/wiki/Java)** too, but ended up giving up on the way.
+I program using the **JavaScript** language. I tried to program using **Java** too, but ended up giving up on the way.
 
 ## [Yukie](https://github.com/Druzinhu/Yukie)
 - **Yukie** is my Discord bot! She has some commands for fun, moderation, music, among others. I did she using the **[Discord.js](https://discord.js.org/)** library and **[Node.js](https://nodejs.org/en/)** (used to run the code).
